@@ -1,0 +1,14 @@
+
+form{
+    align-self: center;
+    display: block;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10%;
+    margin-top: 3%;
+}
+
+button {
+    size: 10px;
+}

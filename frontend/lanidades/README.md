@@ -1,0 +1,3 @@
+Esta versión es una versión que esta incompleta, puntualmente me siento muy inconforme con la entrega porque pudo ser mucho mejor y completa, me faltaba poca cosa y debido a un apagón y que me quedo solo acceso a la pc de mi madre, tuve que subir esta versión, el login funciona con 3 usuarios y contraseñas: Usuario: Lanidades Pass: Lanidades, Usuario: Stock Pass: Lanidades y Usuario: LanidadesBoss Pass: LanidadesBoss
+
+Lamento una entrega tan pobre pero creo que lo que esta esta funcionando correctamente.
